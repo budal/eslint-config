@@ -1,5 +1,5 @@
 {
-  "name": "@rocketseat/eslint-config",
+  "name": "@budal/eslint-config",
   "version": "2.1.0",
   "private": false,
   "description": "ESLint configuration used by Rocketseat.",
