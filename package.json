@@ -2,11 +2,11 @@
   "name": "@budal/eslint-config",
   "version": "2.1.0",
   "private": false,
-  "description": "ESLint configuration used by Rocketseat.",
+  "description": "ESLint configuration.",
   "main": "index.js",
   "license": "MIT",
   "repository": {
-    "url": "rocketseat/eslint-config-rocketseat"
+    "url": "budal/eslint-config"
   },
   "peerDependencies": {
     "eslint": "^8.0.0",
